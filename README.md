@@ -1,2 +1,2 @@
 # golambda
-Testing this newfangled thing
+Movie query function.
